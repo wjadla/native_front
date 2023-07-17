@@ -1,0 +1,6 @@
+Dockerfile
+.dockerignore
+.gitignore
+
+#artifact
+node_modules

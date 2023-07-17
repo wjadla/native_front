@@ -77,7 +77,7 @@ export default function App() {
       <Image href={require("./assets/Alteca_Toulouse.png")}
       width={width + 210 } 
       height={height + 100  }
-      preserveAspectRatio="xMidyMid slice "
+      preserveAspectRatio="xMidyMid slice"
       clipPath="url(#clipPathId)"
       />
      </Svg>
